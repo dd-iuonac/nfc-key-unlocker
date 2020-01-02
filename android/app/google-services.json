@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729045126457",
+    "firebase_url": "https://nfc-key-unlocker-system.firebaseio.com",
+    "project_id": "nfc-key-unlocker-system",
+    "storage_bucket": "nfc-key-unlocker-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729045126457:android:12ac01c03aa862add82ce8",
+        "android_client_info": {
+          "package_name": "com.dd_iuonac.nfc_key_unlocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729045126457-hhtpekq4mksk5617soq1l6k0j39nie9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1KDtiCsISd47JAdqYQETydFgp6QzURHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729045126457-hhtpekq4mksk5617soq1l6k0j39nie9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
